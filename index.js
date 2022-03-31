@@ -26,3 +26,8 @@ var randomImageSource2 = "images/dice" + randomNumber2 + ".png" ;
     document.querySelector("h1").innerHTML="!! ITS A DRAW !!";
 
  }
+
+ 
+function myFunction(){
+   location.reload();
+}

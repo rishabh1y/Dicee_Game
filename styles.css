@@ -2,11 +2,16 @@
   width: 70%;
   margin: auto;
   text-align: center;
+
+ 
+  
 }
 
 .dice {
   text-align: center;
   display: inline-block;
+
+  
 
 }
 
@@ -39,3 +44,15 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+#btn{
+  border: 2px solid red;
+  background-color: aquamarine;
+
+  padding: 10px;
+  font-weight: 500;
+  width: 55%;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
