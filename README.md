@@ -1,5 +1,5 @@
 # Dice Game
-A basic Dice game , Refresh and test your Luck 
+A basic Dice game , Refresh and test your Luck from here
 <br>
 <a>https://rishabh1y.github.io/Dicee_Game</a>
 # Made with Pure Html,css,javascript
